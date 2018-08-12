@@ -1,0 +1,34 @@
+﻿生成启动时间为 2018/1/6 16:11:26。
+     1>项目“C:\Users\Administrator\Desktop\test\7.2.4标准霍夫变换：HoughLines()函数\HoughLines_test\HoughLines_test\HoughLines_test.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Users\Administrator\Desktop\test\7.2.4标准霍夫变换：HoughLines()函数\HoughLines_test\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\HoughLines_test.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\visual_studio_2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HoughLines_test.cpp
+         HoughLines_test.cpp
+     1>c:\users\administrator\desktop\test\7.2.4标准霍夫变换：houghlines()函数\houghlines_test\houghlines_test\houghlines_test.cpp(23): error C2039: “X”: 不是“cv::Point_<_Tp>”的成员
+                 with
+                 [
+                     _Tp=int
+                 ]
+     1>c:\users\administrator\desktop\test\7.2.4标准霍夫变换：houghlines()函数\houghlines_test\houghlines_test\houghlines_test.cpp(24): error C2039: “Y”: 不是“cv::Point_<_Tp>”的成员
+                 with
+                 [
+                     _Tp=int
+                 ]
+     1>c:\users\administrator\desktop\test\7.2.4标准霍夫变换：houghlines()函数\houghlines_test\houghlines_test\houghlines_test.cpp(25): error C2039: “X”: 不是“cv::Point_<_Tp>”的成员
+                 with
+                 [
+                     _Tp=int
+                 ]
+     1>c:\users\administrator\desktop\test\7.2.4标准霍夫变换：houghlines()函数\houghlines_test\houghlines_test\houghlines_test.cpp(26): error C2039: “Y”: 不是“cv::Point_<_Tp>”的成员
+                 with
+                 [
+                     _Tp=int
+                 ]
+     1>已完成生成项目“C:\Users\Administrator\Desktop\test\7.2.4标准霍夫变换：HoughLines()函数\HoughLines_test\HoughLines_test\HoughLines_test.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.67

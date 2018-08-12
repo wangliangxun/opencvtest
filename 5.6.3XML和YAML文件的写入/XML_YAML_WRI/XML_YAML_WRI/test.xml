@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<frameCount>5</frameCount>
+<calibrationDate>"Wed Dec 27 12:29:58 2017&#x0a;"</calibrationDate>
+<cameraMatrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    100. 0. 320. 0. 1000. 240. 0. 0. 1.</data></cameraMatrix>
+<distCoeffs type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    1.0000000000000001e-001 1.0000000000000000e-002
+    -1.0000000000000000e-003 0. 0.</data></distCoeffs>
+<features>
+  <_><x>41</x>
+    <y>227</y>
+    <lbp>
+      0 1 1 1 1 1 0 1</lbp></_>
+  <_><x>260</x>
+    <y>449</y>
+    <lbp>
+      0 0 1 1 0 1 1 0</lbp></_>
+  <_><x>598</x>
+    <y>78</y>
+    <lbp>
+      0 1 0 0 1 0 1 0</lbp></_></features>
+</opencv_storage>

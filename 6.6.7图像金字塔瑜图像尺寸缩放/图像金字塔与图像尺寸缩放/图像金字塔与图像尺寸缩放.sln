@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图像金字塔与图像尺寸缩放", "图像金字塔与图像尺寸缩放\图像金字塔与图像尺寸缩放.vcxproj", "{8872D415-3CEC-425E-A3D5-4E2A718BCEB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8872D415-3CEC-425E-A3D5-4E2A718BCEB7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8872D415-3CEC-425E-A3D5-4E2A718BCEB7}.Debug|Win32.Build.0 = Debug|Win32
+		{8872D415-3CEC-425E-A3D5-4E2A718BCEB7}.Release|Win32.ActiveCfg = Release|Win32
+		{8872D415-3CEC-425E-A3D5-4E2A718BCEB7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

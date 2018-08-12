@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "canny_project", "canny_project\canny_project.vcxproj", "{567C4D5D-E2F8-418A-AD4D-75E337A8ECD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567C4D5D-E2F8-418A-AD4D-75E337A8ECD9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{567C4D5D-E2F8-418A-AD4D-75E337A8ECD9}.Debug|Win32.Build.0 = Debug|Win32
+		{567C4D5D-E2F8-418A-AD4D-75E337A8ECD9}.Release|Win32.ActiveCfg = Release|Win32
+		{567C4D5D-E2F8-418A-AD4D-75E337A8ECD9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
