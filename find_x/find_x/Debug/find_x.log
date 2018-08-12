@@ -1,4 +1,4 @@
-﻿生成启动时间为 2018/8/10 22:51:45。
+﻿生成启动时间为 2018/8/12 13:10:43。
      1>项目“C:\Users\Administrator\Desktop\test\11.4.3 寻找已知物体\find_x\find_x\find_x.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\find_x.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
@@ -18,4 +18,4 @@
 
 生成成功。
 
-已用时间 00:00:01.59
+已用时间 00:00:01.77
